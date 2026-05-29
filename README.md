@@ -1,4 +1,4 @@
-# <img src="images/app-icon.png" width="48" /> CubeAlg Viewer
+# <img src="images/app-icon.png" width="24" /> CubeAlg Viewer
 
 A speedcubing algorithm reference app for iPhone, iPad, and Mac.
 
