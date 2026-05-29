@@ -1,4 +1,4 @@
-# ![icon](images/app-icon.png) CubeAlg Viewer
+# <img src="images/app-icon.png" width="48" /> CubeAlg Viewer
 
 A speedcubing algorithm reference app for iPhone, iPad, and Mac.
 
@@ -35,11 +35,15 @@ CubeAlg Viewer helps speedcubers learn and practice OLL and PLL algorithms with 
 
 ## Screenshots
 
-![OLL list](images/01_iphone_root_view.png)
+![PLL list](images/screenshot-pll-list.png)
 
-![PLL list](images/04_pll_list_view.png)
+![Pattern view](images/screenshot-pattern-view.png)
 
-![Algorithm detail](images/05_algorithm_detail_view.png)
+![Algorithm edit](images/screenshot-alg-edit.png)
+
+![Practice](images/screenshot-practice.png)
+
+![Practice WCA](images/screenshot-practice-wca.png)
 
 ---
 
