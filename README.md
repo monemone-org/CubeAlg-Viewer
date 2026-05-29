@@ -1,6 +1,6 @@
 # <img src="images/app-icon.png" width="24" /> CubeAlg Viewer
 
-A speedcubing algorithm reference app for iPhone, iPad, and Mac.
+A 3x3 speedcubing algorithm reference app for iPhone, iPad, and Mac.
 
 <!-- TODO: replace with real App Store link once published -->
 <!-- [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/TODO) -->
