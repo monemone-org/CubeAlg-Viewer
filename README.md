@@ -35,15 +35,15 @@ CubeAlg Viewer helps speedcubers learn and practice OLL and PLL algorithms with 
 
 ## Screenshots
 
-![PLL list](images/screenshot-pll-list.png)
+<img src="images/screenshot-pll-list.png" width="33%" />
 
-![Pattern view](images/screenshot-pattern-view.png)
+<img src="images/screenshot-pattern-view.png" width="33%" />
 
-![Algorithm edit](images/screenshot-alg-edit.png)
+<img src="images/screenshot-alg-edit.png" width="33%" />
 
-![Practice](images/screenshot-practice.png)
+<img src="images/screenshot-practice.png" width="33%" />
 
-![Practice WCA](images/screenshot-practice-wca.png)
+<img src="images/screenshot-practice-wca.png" width="33%" />
 
 ---
 
